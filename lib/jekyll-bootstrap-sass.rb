@@ -2,7 +2,7 @@ require 'jekyll-bootstrap-sass/version'
 require 'find'
 
 # Require bootstrap-sass to add bootstrap to SaSS's load path
-require 'bootstrap-sass'
+require 'bootstrap'
 
 module Jekyll
   module BootstrapSass
